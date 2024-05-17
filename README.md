@@ -7,3 +7,6 @@ This repo will contains each config of routers, switchs, FW,...
 
 ## Network Architecture
 TODO
+
+## IP Address Table
+TODO
